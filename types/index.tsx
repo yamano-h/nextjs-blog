@@ -1,4 +1,3 @@
-export type ItemType = {
-  id: string;
-  content: string;
+export const ItemTypes = {
+  CARD: "card",
 };
